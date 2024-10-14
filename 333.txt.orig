@@ -12,10 +12,11 @@
       <div>第二項新增需求</div>
     </div>
 	<div class="container">
+<<<<<<< Updated upstream
       <div>修改第二項需求BUG，及新增方法</div>
-    </div>
-	<div class="container">
+=======
       <div>第三項新增需求</div>
+>>>>>>> Stashed changes
     </div>
   </body>
 </html>
